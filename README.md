@@ -10,7 +10,7 @@ singleshell
 multishell
   - birden fazla terminalde ayni anda shell ekrani acmaya yarar
   - terminallerin herhangi birine yazilan her komutu shell.log adinda bir dosya olusturarak tutar
-    - her terminalin logu idleri ile beraber ayni dosyada olur
+    - her terminalin logu id'leri ile beraber ayni dosyada olur
   - multishell 'x' yazarak 'x' tane terminali acmanizi saglar
     - sadece Xterm uygulamasini 'x' adet acmaktadir, baska uygulamalari acmasi icin multishellden gerekli yeri degistirmeniz gerekmektedir.
 
