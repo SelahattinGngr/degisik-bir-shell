@@ -11,6 +11,7 @@ multishell
   - birden fazla terminalde ayni anda shell ekrani acmaya yarar
   - terminallerin herhangi birine yazilan her komutu shell.log adinda bir dosya olusturarak tutar
     - her terminalin logu idleri ile beraber ayni dosyada olur
-  - multishell 3 yazarak 3 tane terminali acmanizi saglar
+  - multishell 'x' yazarak 'x' tane terminali acmanizi saglar
+    - sadece Xterm uygulamasini 'x' adet acmaktadir, baska uygulamalari acmasi icin multishellden gerekli yeri degistirmeniz gerekmektedir.
 
 terminalinizi acip dosya konumuna geldiginizde make yazarak kodun derlenmesini saglayin ardindan multishell calistirarak istediginizi yapin
